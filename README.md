@@ -1,1 +1,4 @@
-# Recommendation_systems_using_dl
+# Recommendation Systems using Deep Learning
+
+Used techniques from survival analysis and LSTM Networks
+
